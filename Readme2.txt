@@ -1,0 +1,1 @@
+this project is a module for python 3.7, bu username. the basic idea is to give some more owo to python by adding new functions that take the place of old ones  st list of commands will be featured with this module, i hope you injoy! ~username owo
