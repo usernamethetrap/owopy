@@ -1,0 +1,6 @@
+setup.py
+uwu_pkg/__init__.py
+uwu_pkg.egg-info/PKG-INFO
+uwu_pkg.egg-info/SOURCES.txt
+uwu_pkg.egg-info/dependency_links.txt
+uwu_pkg.egg-info/top_level.txt
